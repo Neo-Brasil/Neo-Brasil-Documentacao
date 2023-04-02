@@ -14,8 +14,8 @@
 
 <span id="solucao">
 
-## :pencil: Solução
- Nessa sprint focamos em entregar o crud de clientes e títulos, o registro de pagamentos, o relátorio de fluxo de caixa e o login de um administrador para o sistema, visto que assim solucionariamos o problema de falta de registro de clientes e títulos, 
+## :pencil: Soluções
+ Nessa sprint focamos em entregar o crud de clientes e títulos, o registro de pagamentos, o relátorio de fluxo de caixa e o login de um administrador para o sistema, visto que assim solucionamos o problema de falta de registro de clientes e títulos, a falta de registro de clientes que ja pagaram e do controle de caixa. 
 
 <br>
 
@@ -34,19 +34,24 @@
 
 <span id="bpmn">
 
-<h2> BPMN </h2>
+<h2>:bookmark_tabs: BPMN </h2>
+<div align="center">
 
-imagem
+![BPMN](https://user-images.githubusercontent.com/101027809/229370507-eaf252d6-3fbf-49b3-98c5-6818f6492c5b.png)
 
-<a href="#menu">Voltar ao menu</a>
+</div>
 
 <br>
 
 <span id="burndown">
 
-<H2> Burndown </h2>
+<H2> :chart_with_downwards_trend: Burndown </h2>
+<div align="center">
 
-imagem
+![burndown](https://user-images.githubusercontent.com/101027809/229370915-3ddf21ca-04b2-4423-972f-0616f01b8f5a.png)
+
+
+</div>
 
 <a href="#menu">Voltar ao menu</a>
 
