@@ -12,6 +12,7 @@
     <a href="#backlog">Backlogs</a> | 
     <a href="#pastas">Configuração das pastas</a> | 
     <a href="#manual">Manual de Instalação</a> |
+    <a href="#utilizacao">Manual de utilização</a> |
     <a href="#equipe">Equipe</a>
 </p>
 
@@ -38,9 +39,9 @@
 <span id="entrega">
 
 ## 🏁 Entregas de Sprints
-| Sprint |        Previsão         |     Status     |     Histórico     |
-| :----: | :---------------------: | :------------: | :---------------: |
-|   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) |
+| Sprint |        Previsão         |     Status     |     Relatório     | Tag
+| :----: | :---------------------: | :------------: | :---------------: | :------------:
+|   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)
 |   02   | 03/04/2023 à 23/04/2023 | Não iniciada ❌ |                   |
 |   03   | 24/04/2023 à 14/05/2023 | Não iniciada ❌ |                   |
 |   04   | 15/05/2023 à 04/06/2023 | Não iniciada ❌ |                   |
@@ -86,13 +87,15 @@
 <span id="pastas">
 
 ## :file_folder: Configuração das pastas
-* 📂 `doc`: onde estão armazenadas as pastas data_base, com o modelo do banco de dados, e a pasta bpmn, com o modelo BPMN.
+* 📂 `doc`: onde estão armazenados a pasta data_base, com o modelo do banco de dados, a pasta bpmn, com o modelo BPMN e o arquivo manual_usuario.
 
   
 
 <a href="#menu">Voltar ao menu</a>
 
 <br>
+
+<span id="manual">
 
  ## :scroll: Manual de instalação
 
@@ -118,16 +121,24 @@
 
 - Execute o arquivo AplicacaoAplication.java 
 
-* Clone o repositório [frontend](https://github.com/Neo-Brasil/Neo-Brasil-Frontend), entre na pasta Neo-Brasil-Frontend e digite:
+* Após executar o backend, crie uma nova pasta e execute os seguintes comandos no cmd:
 
   ```
+  git clone https://github.com/Neo-Brasil/Neo-Brasil-Frontend
+  cd Neo-Brasil-Frontend
   npm install
   npm start
   ```
-  
-
 <a href="#menu">Voltar ao menu</a>
-    
+  
+  <span id="utilizacao">
+  
+ ## :scroll: Manual de utilização
+ 
+ [Acesse aqui o manual de utilização](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/manual_usuario.md)
+ 
+ 
+ <br>
 
 <span id="equipe"> 
 
