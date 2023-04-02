@@ -40,7 +40,7 @@
 ## 🏁 Entregas de Sprints
 | Sprint |        Previsão         |     Status     |     Histórico     |
 | :----: | :---------------------: | :------------: | :---------------: |
-|   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório]() |
+|   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) |
 |   02   | 03/04/2023 à 23/04/2023 | Não iniciada ❌ |                   |
 |   03   | 24/04/2023 à 14/05/2023 | Não iniciada ❌ |                   |
 |   04   | 15/05/2023 à 04/06/2023 | Não iniciada ❌ |                   |
