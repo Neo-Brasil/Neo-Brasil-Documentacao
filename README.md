@@ -96,8 +96,34 @@
 
  ## :scroll: Manual de instalação
 
-* manual de instalação
+* Depois de instalar as tecnologias necessárias para o projeto(NodeJS, MySql, MySQL Workbench, Java, Eclipse e Spring) digite no cmd:
 
+  ```
+  git clone https://github.com/Neo-Brasil/Neo-Brasil-Backend
+  cd Neo-Brasil-Backend
+  cd neobrasil-backend
+  ```
+
+- Abra a pasta neobrasil-backend  e configure os dados do seu banco de dados nos arquivos AplicacaoApplication e Application.properties
+
+   ![aplicacaoaplication](https://user-images.githubusercontent.com/101027809/229372657-56edcc66-1a00-4591-a401-14d0a4f9e5a1.png)
+
+   ![applicationproperties](https://user-images.githubusercontent.com/101027809/229372662-34f8ac1d-f3a3-4adf-9085-844d2d794dd6.png)
+ 
+
+- Execute os seguintes comandos no MySQL Workbench:
+
+  ![mysql](https://user-images.githubusercontent.com/101027809/229372701-fabb64af-5456-4f70-9e22-1f209373dac1.png)
+
+
+- Execute o arquivo AplicacaoAplication.java 
+
+* Clone o repositório [frontend](https://github.com/Neo-Brasil/Neo-Brasil-Frontend), entre na pasta Neo-Brasil-Frontend e digite:
+
+  ```
+  npm install
+  npm start
+  ```
   
 
 <a href="#menu">Voltar ao menu</a>
