@@ -42,7 +42,7 @@
 | Sprint |        Previsão         |     Status     |     Relatório     | Tag
 | :----: | :---------------------: | :------------: | :---------------: | :------------:
 |   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)
-|   02   | 03/04/2023 à 23/04/2023 | Não iniciada ❌ |                   |
+|   02   | 03/04/2023 à 23/04/2023 | Em andamento  	:clock3:	|                   |
 |   03   | 24/04/2023 à 14/05/2023 | Não iniciada ❌ |                   |
 |   04   | 15/05/2023 à 04/06/2023 | Não iniciada ❌ |                   |
 
@@ -59,12 +59,13 @@
 |   1    |  RF2   | Registro de pagamentos                         |   ✅    |
 |   1    |  RF3   | Relatório de entrada (fluxo de caixa)          |   ✅    |
 |   1    |  RF4   | Login de administrador                         |   ✅    |
-|   2    |  RF5   | Relatório de valores a receber                 |   ❌    |
+|   2    |  RF5   | Geração de parcelas               |   ❌    |
 |   2    |  RF6   | Login por setores                              |   ❌    |
 |   2    |  RF7   | Crud de usuários                               |   ❌    |
-|   2    |  RF8   | Relatório clientes inadimplentes e adimplentes |   ❌    |
-|   3    |  RF9   | Filtro por datas nos relatórios                |   ❌    |
-|   4    |  RF10  | Relatório cobranças                            |   ❌    |
+|   2    |  RF8   | Filtro por intervalos de tempo |   ❌    |
+|   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito)                |   ❌    |
+|   3    |  RF10  | Restrição de telas por usuário                           |   ❌    |
+|   4    |  RF11 | Processamento Batch                           |   ❌    |
 
 #### Requisitos Não Funcionais  
 | CÓDIGO | DESCRIÇÃO |
