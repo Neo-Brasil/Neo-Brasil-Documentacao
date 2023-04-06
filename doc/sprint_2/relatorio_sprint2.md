@@ -1,9 +1,11 @@
 <div align="center" id="menu">
 
+![logo-transparent](https://user-images.githubusercontent.com/101027809/230509560-dde0caec-8fa5-44c9-91f4-11c7fc8d2f76.png)
+    
 <h1> Relatório Sprint 2 </h1>
 
 <p>
-    <a href="#solucao">Solução</a> | 
+    <a href="#solucao">Soluções</a> | 
     <a href="#requisitos">Requisitos entregues</a> | 
     <a href="#bpmn">BPMN</a> |
     <a href="#burndown">Burndown</a> 
