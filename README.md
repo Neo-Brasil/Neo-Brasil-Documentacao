@@ -1,7 +1,6 @@
 <div align="center" id="menu">
 
-![NEOBRASIL](https://user-images.githubusercontent.com/101027809/229370224-49488559-c598-48bf-946b-e3f2f60410cb.png)
-
+![logo-transparent](https://user-images.githubusercontent.com/101027809/230509760-1fa78343-49dc-4692-b3a6-b308c36c5968.png)
 
 <h3> Desenvolvimento de aplicação back-end com microserviços </h3>
 
@@ -42,7 +41,7 @@
 | Sprint |        Previsão         |     Status     |     Relatório     | Tag
 | :----: | :---------------------: | :------------: | :---------------: | :------------:
 |   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)
-|   02   | 03/04/2023 à 23/04/2023 | Em andamento  	:clock3:	|                   |
+|   02   | 03/04/2023 à 23/04/2023 | Em andamento  	:clock3:	|  [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/sprint_2/relatorio_sprint2.md)             |
 |   03   | 24/04/2023 à 14/05/2023 | Não iniciada ❌ |                   |
 |   04   | 15/05/2023 à 04/06/2023 | Não iniciada ❌ |                   |
 
@@ -88,7 +87,7 @@
 <span id="pastas">
 
 ## :file_folder: Configuração das pastas
-* 📂 `doc`: onde estão armazenados a pasta data_base, com o modelo do banco de dados, a pasta bpmn, com o modelo BPMN e o arquivo manual_usuario.
+* 📂 `doc`: onde estão armazenados a pasta data_base, com o modelo do banco de dados, a pasta bpmn, com o modelo BPMN, a pasta sprint_2, armazenando o relatório da sprint, e o arquivo manual_usuario.
 
   
 
