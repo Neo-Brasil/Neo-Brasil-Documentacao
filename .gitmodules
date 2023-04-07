@@ -1,0 +1,6 @@
+[submodule "Neo-Brasil-Frontend"]
+	path = Neo-Brasil-Frontend
+	url = https://github.com/Neo-Brasil/Neo-Brasil-Frontend
+[submodule "Neo-Brasil-Backend"]
+	path = Neo-Brasil-Backend
+	url = https://github.com/Neo-Brasil/Neo-Brasil-Backend
