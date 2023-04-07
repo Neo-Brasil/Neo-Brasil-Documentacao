@@ -10,7 +10,7 @@
     <a href="#entrega">Entregas de Sprints</a> |
     <a href="#backlog">Backlogs</a> | 
     <a href="#pastas">Configuração das pastas</a> | 
-    <a href="#manuais">Manual de instalação e utilização </a> |
+    <a href="#manuais">Manual de instalação </a> |
     <a href="#equipe">Equipe</a>
 </p>
 
