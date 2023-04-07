@@ -103,9 +103,10 @@
 * Depois de instalar as tecnologias necessárias para o projeto(NodeJS, MySql, MySQL Workbench, Java, Eclipse e Spring) digite no cmd:
 
   ```
-  git clone https://github.com/Neo-Brasil/Neo-Brasil-Backend
-  cd Neo-Brasil-Backend
-  cd neobrasil-backend
+  git clone https://github.com/Neo-Brasil/Neo-Brasil-Documentacao
+  cd Neo-Brasil-Documentacao
+  git submodule update --init
+  cd Neo-Brasil-Backend/neobrasil-backend
   ```
 
 - Abra a pasta neobrasil-backend  e configure os dados do seu banco de dados nos arquivos AplicacaoApplication e Application.properties
@@ -121,10 +122,9 @@
 
 - Execute o arquivo AplicacaoAplication.java 
 
-* Após executar o backend, crie uma nova pasta, execute os comandos seguintes no cmd e leia o [manual de utilização](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/manual_usuario.md):
+* Após executar o backend, retorne para pasta Neo-Brasil-Documentacao, execute os comandos seguintes no cmd e leia o [manual de utilização](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/manual_usuario.md):
 
   ```
-  git clone https://github.com/Neo-Brasil/Neo-Brasil-Frontend
   cd Neo-Brasil-Frontend
   npm install
   npm start
