@@ -63,10 +63,10 @@
 |   1    |  RF2   | Registro de pagamentos                         |   ✅    |
 |   1    |  RF3   | Relatório de entrada (fluxo de caixa)          |   ✅    |
 |   1    |  RF4   | Login de administrador                         |   ✅    |
-|   2    |  RF5   | Geração de parcelas               |   ❌    |
-|   2    |  RF6   | Login por setores                              |   ❌    |
-|   2    |  RF7   | Crud de usuários                               |   ❌    |
-|   2    |  RF8   | Filtro por intervalos de tempo |   ❌    |
+|   2    |  RF5   | Geração de parcelas               |   ✅   |
+|   2    |  RF6   | Crud de usuários             |   ✅   |
+|   2    |  RF7   | Login por setores             |   ❌    |
+|   2    |  RF8   | Filtro por intervalos de tempo |   ✅   |
 |   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito)                |   ❌    |
 |   3    |  RF10  | Restrição de telas por usuário                           |   ❌    |
 |   4    |  RF11 | Processamento Batch                           |   ❌    |
@@ -119,7 +119,6 @@
   
   ![mysql](https://user-images.githubusercontent.com/101027809/229372701-fabb64af-5456-4f70-9e22-1f209373dac1.png)
   
-
 - Execute o arquivo AplicacaoAplication.java 
 
 * Após executar o backend, retorne para pasta Neo-Brasil-Documentacao, execute os comandos seguintes no cmd e leia o [manual de utilização](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/manual_usuario.md):
