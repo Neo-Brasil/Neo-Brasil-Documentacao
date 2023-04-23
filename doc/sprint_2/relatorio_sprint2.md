@@ -52,8 +52,7 @@
 <H2> :chart_with_downwards_trend: Burndown </h2>
 <div align="center">
 
-
-
+![burndown_sprint2](https://user-images.githubusercontent.com/101027809/233866112-6995fa48-da19-4860-b70c-6e48c2fdad88.png)
 
 </div>
 
