@@ -29,7 +29,7 @@
 | :----: | :----: | :----------------------------- | :----: |
 |   2    |  RF5   | Geração de parcelas            |   ✅    |
 |   2    |  RF6   | Crud de usuários               |   ✅    |
-|   2    |  RF7   | Login por setores              |   🕒    |
+|   2    |  RF7   | Login por setores              |   ✅    |
 |   2    |  RF8   | Filtro por intervalos de tempo |   ✅    |
 
 <br>

@@ -43,12 +43,12 @@
 <span id="entrega">
 
 ## 🏁 Entregas de Sprints
-| Sprint |        Previsão         |     Status     |     Relatório     | Tag
-| :----: | :---------------------: | :------------: | :---------------: | :------------:
-|   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)
-|   02   | 03/04/2023 à 23/04/2023 | Em andamento  	:clock3:	|  [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/sprint_2/relatorio_sprint2.md)             |
-|   03   | 24/04/2023 à 14/05/2023 | Não iniciada ❌ |                   |
-|   04   | 15/05/2023 à 04/06/2023 | Não iniciada ❌ |                   |
+| Sprint |        Previsão         |     Status     |     Relatório     | Tag|
+| :----: | :---------------------: | :------------: | :---------------: | :------------:|
+|   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)|
+|   02   | 03/04/2023 à 23/04/2023 | Finalizado ✔️	|  [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/sprint_2/relatorio_sprint2.md)             |[2.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/2.0.0)|
+|   03   | 24/04/2023 à 14/05/2023 | Não iniciada ❌ |                   ||
+|   04   | 15/05/2023 à 04/06/2023 | Não iniciada ❌ |                   ||
 
 <br>
 
@@ -65,7 +65,7 @@
 |   1    |  RF4   | Login de administrador                         |   ✅    |
 |   2    |  RF5   | Geração de parcelas               |   ✅   |
 |   2    |  RF6   | Crud de usuários             |   ✅   |
-|   2    |  RF7   | Login por setores             |   ❌    |
+|   2    |  RF7   | Login por setores             |   ✅   |
 |   2    |  RF8   | Filtro por intervalos de tempo |   ✅   |
 |   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito)                |   ❌    |
 |   3    |  RF10  | Restrição de telas por usuário                           |   ❌    |
