@@ -37,7 +37,7 @@
 <h2>:bookmark_tabs: BPMN </h2>
 <div align="center">
 
-![bpmn_3sprint](https://user-images.githubusercontent.com/101027809/234105281-6520bbf6-129f-4bb4-96d2-b852a803a1b3.png)
+![bpmn_3sprint](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/assets/101027809/e8513efe-df8e-477b-a62f-ed8e22dce576)
 
 </div>
 
