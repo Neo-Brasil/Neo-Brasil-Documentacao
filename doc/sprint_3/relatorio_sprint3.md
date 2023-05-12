@@ -27,8 +27,8 @@
 
 | SPRINT | CÓDIGO | DESCRIÇÃO                                                    | STATUS |
 | :----: | :----: | :----------------------------------------------------------- | :----: |
-|   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito) |   🕒    |
-|   3    |  RF10  | Melhorias nas funcionalidades do sistema                     |   🕒    |
+|   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito) |   ✅    |
+|   3    |  RF10  | Melhorias nas funcionalidades do sistema                     |   ✅    |
 
 <br>
 
