@@ -67,8 +67,8 @@
 |   2    |  RF6   | Crud de usuários             |   ✅   |
 |   2    |  RF7   | Login por setores             |   ✅   |
 |   2    |  RF8   | Filtro por intervalos de tempo |   ✅   |
-|   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito)                |   🕒  |
-|   3    |  RF10  | Melhorias nas funcionalidades do sistema |   🕒  |
+|   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito)                |   ✅   |
+|   3    |  RF10  | Melhorias nas funcionalidades do sistema |   ✅   |
 |   4    |  RF11 | Processamento Batch                           |   ❌    |
 
 #### Requisitos Não Funcionais  
@@ -91,7 +91,7 @@
 <span id="pastas">
 
 ## :file_folder: Configuração das pastas
-* 📂 `doc`: onde estão armazenados a pasta data_base, com o modelo do banco de dados, a pasta bpmn, com o modelo BPMN, a pasta sprint_2, armazenando o relatório da sprint, e o arquivo manual_usuario.
+* 📂 `doc`: onde estão armazenados a pasta data_base, com o modelo do banco de dados, a pasta bpmn, com o modelo BPMN, as pastas sprint_2 e sprint_3, armazenando os relatórios das sprints, e o arquivo manual_usuario.
 
 
 <br>
