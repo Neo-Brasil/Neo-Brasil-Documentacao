@@ -17,7 +17,7 @@
 <span id="solucao">
 
 ## :pencil: Soluções
- Nessa sprint focaremos em entregar a filtragem por tipo de datas( pagamento, vencimento, crédito) na tela de relatórios e melhorias nas funcionalidades do sistema, visto que assim facilitariamos a procura das parcelas vencidas, a vencer, pagas ou creditadas, além de fornecer funcionalidades ainda mais adequadas para sanar as dores do cliente. 
+ Nessa sprint focamos em entregar a filtragem por tipo de datas( pagamento, vencimento, crédito) na tela de relatórios e melhorias nas funcionalidades do sistema, visto que assim facilitariamos a procura das parcelas vencidas, a vencer, pagas ou creditadas, além de fornecer funcionalidades mais adequadas para sanar as dores do cliente. 
 
 <br>
 
@@ -45,10 +45,10 @@
 
 <span id="burndown">
 
-<H2> :chart_with_downwards_trend: Burndown </h2>
+<H2> :chart_with_downwards_trend: Burndown </h2>    
 <div align="center">
 
-
+ ![burndown3](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/assets/101027809/a4b6dd98-b695-48b4-882b-343991621e6e)
 
 </div>
 
