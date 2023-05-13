@@ -11,16 +11,16 @@
 <li> Clientes cadastrados: dentro da tabela estão localizados os clientes cadastrados. Para editar um cliente basta clicar no botão da coluna Visualizar, alterar os dados nos campos e enviar clicando no botão. Para excluir basta clicar no botão da coluna Deletar e confirmar a ação. </li>
 <br>
 <li> Relatório de pagamento: apresenta uma tabela onde aparecem todos os clientes e clicando na linha do nome, irá aparecer os dados do cliente e de seu título. 
-  Além disso, no topo da tela aparece campos para inserir datas, após as datas serem inseridas, se clicar em: Ver resultado de valores... escrito em laranja, irá aparecer uma tabela com expectativa de recebimento, o valor recebido e o valor a creditar, com seus valores correspondentes. 
-  Clique no botão da coluna de Prestações da tabela principal que irá aparecer informações de meses de vencimento, meses de pagamento, status e	preço.
+  Além disso, no topo da tela aparece campos para inserir datas e selecionar a situação a ser pesquisada, após as datas serem inseridas e situação for escolhida, se clicar em: Ver resultado de valores... escrito em laranja, irá aparecer uma tabela com o valor à receber, o valor recebido e o valor à creditar, com seus valores correspondentes. 
+  Clique no botão da coluna de Prestações da tabela principal que irá aparecer informações de meses de vencimento, meses de pagamento, status e	preço e no final irá aparecer em total a soma das prestações.
 </li>
 
 <h3> Telas do setor Financeiro </h3>
 <li> Registro de pagamento: dentro da tabela estão localizados os clientes que ainda não receberam baixa de pagamento. Para confirmar o pagamento basta clicar no botão da coluna de Prestações, um modal será aberto mostrando uma tabela com as pretações, clique no botão da coluna Registrar e preencha o valor pago, a data de pagamento e clique no botão REGISTRAR. </li>
 <br>
 <li> Relatório de pagamento: apresenta uma tabela onde aparecem todos os clientes e clicando na linha do nome, irá aparecer os dados do cliente e de seu título. 
-  Além disso, no topo da tela aparece campos para inserir datas, após as datas serem inseridas, se clicar em: Ver resultado de valores... escrito em laranja, irá aparecer uma tabela com expectativa de recebimento, o valor recebido e o valor a creditar, com seus valores correspondentes. 
-  Clique no botão da coluna de Prestações da tabela principal que irá aparecer informações de meses de vencimento, meses de pagamento, status e	preço.
+  Além disso, no topo da tela aparece campos para inserir datas e selecionar a situação a ser pesquisada, após as datas serem inseridas e situação for escolhida, se clicar em: Ver resultado de valores... escrito em laranja, irá aparecer uma tabela com o valor à receber, o valor recebido e o valor à creditar, com seus valores correspondentes. 
+  Clique no botão da coluna de Prestações da tabela principal que irá aparecer informações de meses de vencimento, meses de pagamento, status e	preço e no final irá aparecer em total a soma das prestações.
 </li>
 <br>
 
@@ -36,6 +36,6 @@
 <li> Registro de pagamento: dentro da tabela estão localizados os clientes que ainda não receberam baixa de pagamento. Para confirmar o pagamento basta clicar no botão da coluna de Prestações, um modal será aberto mostrando uma tabela com as pretações, clique no botão da coluna Registrar e preencha o valor pago, a data de pagamento e clique no botão REGISTRAR. </li>
 <br>
 <li> Relatório de pagamento: apresenta uma tabela onde aparecem todos os clientes e clicando na linha do nome, irá aparecer os dados do cliente e de seu título. 
-  Além disso, no topo da tela aparece campos para inserir datas, após as datas serem inseridas, se clicar em: Ver resultado de valores... escrito em laranja, irá aparecer uma tabela com expectativa de recebimento, o valor recebido e o valor a creditar, com seus valores correspondentes. 
-  Clique no botão da coluna de Prestações da tabela principal que irá aparecer informações de meses de vencimento, meses de pagamento, status e	preço.
+  Além disso, no topo da tela aparece campos para inserir datas e selecionar a situação a ser pesquisada, após as datas serem inseridas e situação for escolhida, se clicar em: Ver resultado de valores... escrito em laranja, irá aparecer uma tabela com o valor à receber, o valor recebido e o valor à creditar, com seus valores correspondentes. 
+  Clique no botão da coluna de Prestações da tabela principal que irá aparecer informações de meses de vencimento, meses de pagamento, status e	preço e no final irá aparecer em total a soma das prestações.
 </li>
