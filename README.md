@@ -47,7 +47,7 @@
 | :----: | :---------------------: | :------------: | :---------------: | :------------:|
 |   01   | 13/03/2023 à 02/04/2023 |  Finalizado ✔️  | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)|
 |   02   | 03/04/2023 à 23/04/2023 | Finalizado ✔️	|  [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/sprint_2/relatorio_sprint2.md)             |[2.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/2.0.0)|
-|   03   | 24/04/2023 à 14/05/2023 | Em andamento 🕒 | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/sprint_3/relatorio_sprint3.md) ||
+|   03   | 24/04/2023 à 14/05/2023 | Finalizado ✔️ | [Ver relatório](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/blob/main/doc/sprint_3/relatorio_sprint3.md) |[3.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/3.0.0)|
 |   04   | 15/05/2023 à 04/06/2023 | Não iniciada ❌ |                   ||
 
 <br>
