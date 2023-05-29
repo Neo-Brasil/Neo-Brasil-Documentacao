@@ -17,7 +17,7 @@
 <span id="solucao">
 
 ## :pencil: Soluções
- Nessa sprint focaremos em entregar o processamento batch, assim evitaremos que a aplicação fique sobrecarregada em horários de fluxo intenso de utilização.
+ Nessa sprint focaremos em entregar a organização dos relatórios por parcelas (dos títulos), além da opção de adicionar mais de um título por cliente. 
 
 <br>
 
@@ -27,7 +27,8 @@
 
 | SPRINT | CÓDIGO | DESCRIÇÃO           | STATUS |
 | :----: | :----: | :------------------ | :----: |
-|   4    |  RF11  | Processamento Batch |   🕒    |
+|   4    |  RF11  | Organização do relatório por parcelas |   ✅   |			
+|   4	 |  RF12  | Adicionar mais de um título por cliente |   🕒   |
 
 <br>
 
