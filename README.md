@@ -69,7 +69,8 @@
 |   2    |  RF8   | Filtro por intervalos de tempo |   ✅   |
 |   3    |  RF9   | Filtro por tipos de datas (pagamento, vencimento ou crédito)                |   ✅   |
 |   3    |  RF10  | Melhorias nas funcionalidades do sistema |   ✅   |
-|   4    |  RF11 | Processamento Batch                           |   🕒  |
+|   4    |  RF11 | Organização do relatório por parcelas     |   ✅   |
+|   4    |  RF12 | Adicionar mais de um título por cliente   |   🕒   |
 
 #### Requisitos Não Funcionais  
 | CÓDIGO | DESCRIÇÃO |
