@@ -47,6 +47,10 @@
 
 <H2> :chart_with_downwards_trend: Burndown </h2>    
 <div align="center">
+    
+![burndown_sprint4](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/assets/101027809/4bc7f6a5-2185-4d24-808b-09b373038bfd)
+
+    
 </div>
 
 <a href="#menu">Voltar ao menu</a>
