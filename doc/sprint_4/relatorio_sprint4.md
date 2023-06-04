@@ -17,7 +17,7 @@
 <span id="solucao">
 
 ## :pencil: Soluções
- Nessa sprint focaremos em entregar a organização dos relatórios por parcelas (dos títulos), além da opção de adicionar mais de um título por cliente. 
+ Nessa sprint focamos em entregar a organização dos relatórios por parcelas (dos títulos), para facilitar a busca pelas parcelas de todos os clientes no relatório, além da opção de adicionar mais de um título por cliente. 
 
 <br>
 
@@ -27,8 +27,8 @@
 
 | SPRINT | CÓDIGO | DESCRIÇÃO           | STATUS |
 | :----: | :----: | :------------------ | :----: |
-|   4    |  RF11  | Organização do relatório por parcelas |   ✅   |			
-|   4	 |  RF12  | Adicionar mais de um título por cliente |   🕒   |
+|   4    |  RF11  | Organização do relatório por parcelas |   ✅   |
+|   4	 |  RF12  | Adicionar mais de um título por cliente |   ✅   |
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <h2>:bookmark_tabs: BPMN </h2>
 <div align="center">
-    
+
    ![bpmn_4sprint](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/assets/101027809/24be4b86-c8dd-4b9c-afa3-0ad40094f7fe)
 
 </div>
